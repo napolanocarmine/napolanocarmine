@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @napolanocarmine
 - 👀 I’m interested in Machine Learning and Artificial Vision
-- 🌱 I’m currently learning about n-dimensional gmaps
-- 💞️ I’m looking to collaborate on a project in Wien for my master thesis
+- 🌱 I’m currently working for Discovery Reply as backend engineer
 - 📫 To reach me you can send an e-mail
 
 <!---
