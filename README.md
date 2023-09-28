@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @napolanocarmine
 - 👀 I’m interested in Machine Learning and Artificial Vision
-- 🌱 I’m currently working for Discovery Reply as backend engineer
+- 🌱 I’m currently working for Discovery Reply as backend developer
 - 📫 To reach me you can send an e-mail
 
 <!---
